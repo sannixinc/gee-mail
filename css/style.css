@@ -20,7 +20,7 @@ h1 {
 
 .nav a {
 	text-decoration: none;
-	color: black;
+	color: white;
 	display: inline-block;
 	transition: .3s background-color;
 }
