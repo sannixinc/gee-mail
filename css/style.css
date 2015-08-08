@@ -53,7 +53,7 @@ h1 {
  .menu li {
 	display: block;
 	position: center;
-	padding:0;
+	padding:1;
 }
 
   .menu ul {
@@ -106,7 +106,7 @@ h1 {
     }
 
       .menu li {
-      float: left;
+      float: center;
     }
 
      .menu ul {
